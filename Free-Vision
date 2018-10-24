@@ -1,0 +1,7 @@
+#Free-Vision
+git init
+git add .
+git commit -m "Free Vision"
+git remote add origin
+https://github.com/Nat-wang/Nat-wang.github.io
+git -u push origin master
